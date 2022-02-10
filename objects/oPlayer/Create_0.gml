@@ -4,9 +4,8 @@
 //global variables
 global.coins = 0;
 global.points = 0;
-
 hp = 5;
-iFrames = false;
+isInvincible = false;
 //xSpeed is how many pixels the player will move each frame
 xSpeed = 4;
 
